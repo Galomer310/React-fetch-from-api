@@ -1,0 +1,13 @@
+.users {
+    list-style-type: none;
+    padding: 0;
+}
+
+.users li {
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+}
+
+.users li:last-child {
+    border-bottom: none;
+}
